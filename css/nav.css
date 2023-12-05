@@ -1,5 +1,7 @@
-/* Navigation*/
 nav{
+    position: fixed;
+    width: 100%;
+    background-color: #fff;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
