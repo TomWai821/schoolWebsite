@@ -6,7 +6,9 @@
   
 h1{
     font-weight: 700;
+    font-size: 42px;
     color: rgb(35, 35, 85);
+    padding-bottom: 10px;
 }
 
 span{

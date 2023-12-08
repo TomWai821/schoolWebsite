@@ -3,29 +3,27 @@
     text-align: center;
 }
 
-#features h1{
-    font-size: 36px;
-}
-
 #features .fea-base{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    grid-gap: 1rem;
+    grid-gap: 2rem;
     margin-top: 50px;
 }
 
 #features .fea-box{
     background: #f9f9ff;
     text-align: start;
+    padding: 40px;
 }
 
 #features .fea-box i{
     font-size: 2.3rem;
     color:rgb(44,44,80);
+    padding-bottom: 20px;
 }
 
 #feature .fea-box h3{
-    font-size: 1.2rem;
+    font-size: 32px;
     font-weight: 600;
     color: rgb(46,46,80);
 }
@@ -34,4 +32,5 @@
     font-size: 1rem;
     font-weight: 400;
     color: rgb(46,46,80);
+    margin: 0 10px 0 10px;
 }
